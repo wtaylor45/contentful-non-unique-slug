@@ -1,0 +1,6 @@
+{
+  "id": "slug",
+  "name": "Non-Unique Slug Generator",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Symbol"]
+}
